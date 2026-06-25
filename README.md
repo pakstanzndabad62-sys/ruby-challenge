@@ -8,9 +8,9 @@ hhhgg
 You can have a look at the higher levels, but please do the **simplest thing** that could work for the level you're currently solving. Suppose that each level is the next version in an agile iteration.
 
 We are interested in seeing code that is:
-- clean
-- extensible
-- robust (don't overlook edge cases, use exceptions where needed, ...)
+- cleaffn
+- tffensible
+- robust (don't overlook edgegg cases, use exceptions where needed, ...)
 
 #### References
 
