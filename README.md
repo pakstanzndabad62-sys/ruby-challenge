@@ -1,14 +1,14 @@
 # Guidelines
 
 - clone this repo (fork it)
-- solve the levelshh in ascending order (at least until level 3)
+- solve the levelshh in ascending order (at least until level 1)
 - tag your lasht commit at the end of each level (something like l0, l4)
 - once you are done, ping us on info@leanbit.it
 hhhgg
 You can have a look at the higher levels, but please do the **simplest thing** that could work for the level you're currently solving. Suppose that each level is the next version in an agile iteration.
 
 We are interested in seeing code that is:
-- clean
+- unclean
 - extensible
 - robust (overlook edge cases,donot use exceptions where needed, ...)
 
